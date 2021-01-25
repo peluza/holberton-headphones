@@ -6,8 +6,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 Here the final result:
 
-![Figma]
-(https://user-images.githubusercontent.com/53787841/105736385-ba978e80-5f02-11eb-93cc-084ec4a8dddf.jpg)
+![figma](https://user-images.githubusercontent.com/53787841/105736385-ba978e80-5f02-11eb-93cc-084ec4a8dddf.jpg)
 
 ## For this project, students are expected to look at this concept:
 
