@@ -248,10 +248,12 @@ button {
   line-height: 18px;
   filter: var(--button-filter);
   margin-bottom: 80px;
+  opacity: 0.9;
 }
 
 button:hover {
   filter: brightness(0.8);
+  cursor: pointer;
 }
 
 /* Layout
@@ -446,7 +448,7 @@ nav .nav-link {
 /* Responsive
           ============================= */
 
-@media (max-width: 375px) {
+@media (max-width: 480px) {
   :root {
     --nav-item-margin: 0;
   }
